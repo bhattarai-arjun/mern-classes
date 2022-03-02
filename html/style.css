@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.hero{
+
+    background:url(./images/pexels-photo-248515.png);
+    height:450px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+color: white;
+}
+.hero p{
+    padding: 20px;
+width: 700px;
+text-align: center;
+}
+.about h1{
+    text-align: center;
+    padding: 20px;
+}
+.text{
+
+    width: 500px;
+    text-align: center;
+    padding-left: 200px;
+}
+.text{
+
+    width: 500px;
+    text-align: center;
+    padding-left: 200px;
+}
+
